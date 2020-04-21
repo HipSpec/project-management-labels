@@ -6,6 +6,9 @@ Ever start a new project or start using a new tool and have to brainstorm those 
 
 Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsistently?
 
+Labels Found Here:
+- [main.yml](./main.yml)
+
 ## Contributing:
 - Open Up a Merge Request!
 - Add your Github and or Twitter name to contributors.md
