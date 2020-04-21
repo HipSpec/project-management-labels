@@ -70,6 +70,14 @@ broad_features:
     description: 
     color:
     text_color:
+  - name: Chat
+    description: 
+    color:
+    text_color:
+  - name: Integrations
+    description: 
+    color:
+    text_color:
   - name: Infrastructure
     description: 
     color:
