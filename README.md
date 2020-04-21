@@ -1,2 +1,15 @@
 # project-management-labels
 Best Practices for Project Management Labels &amp; Merge Request Labels
+
+Ever start a new project or start using a new tool and have to brainstorm those pesky labels?
+
+Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsistently?
+
+## Contributing:
+- Open Up a Merge Request!
+- Add your Github and or Twitter name to contributors.md
+- Not sure how to use github? You can DM @hipspec on Twitter if you think we should add something & we'll credit you.
+
+
+
+## Contributor
