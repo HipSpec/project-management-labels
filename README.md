@@ -21,3 +21,6 @@ Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsisten
 
 
 ## License: MIT
+
+
+Sponsored by [HipSpec](https://hipspec.com)
