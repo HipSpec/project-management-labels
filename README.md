@@ -1,4 +1,5 @@
-# project-management-labels
+## Project Management Labels
+
 Best Practices for Project Management Labels &amp; Merge Request Labels
 
 Ever start a new project or start using a new tool and have to brainstorm those pesky labels?
@@ -14,3 +15,6 @@ Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsisten
 
 ## Contributors
 > Check out [contributors.md](./contributors.md)
+
+
+## License: MIT
