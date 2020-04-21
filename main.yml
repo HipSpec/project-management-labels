@@ -1,7 +1,94 @@
-core:
-  - name: WIP
-    description: Work In Progress
-    color: 
+workflow:
+  - name: ToDo
+    description: Identified as possible work, not yet started.
+    color:
+    text_color:
+  - name: Doing
+    description: In Progress
+    color:
+    text_color:
+  - name: QA
+    description: Being Reviewed By QA
+    color:
+    text_color:
   - name: Done
     description: Done!
     color:
+    text_color:
+  - name: Deployed:Dev
+    description: 
+    color:
+    text_color:
+  - name: Deployed:Staging
+    description: 
+    color:
+    text_color:
+  - name: Deployed:Production
+    description: 
+    color:
+    text_color:
+type:
+  - name: Bug
+    description: 
+    color:
+    text_color:
+  - name: Feature
+    description: 
+    color:
+    text_color:
+  - name: Tech Debt
+    description: 
+    color:
+    text_color:
+  - name: Performance Improvement
+    description: 
+    color:
+    text_color:
+  
+broad_features:
+  - name: Authentication
+    description:
+    color:
+    text_color:
+  - name: Authorization
+    description:
+    color:
+    text_color:
+  - name: Billing
+    description: 
+    color:
+    text_color:
+  - name: Infrastructure
+    description: 
+    color:
+    text_color:
+  - name: Marketplace:Demand
+    description: 
+    color:
+    text_color:
+  - name: Marketplace:Supply
+    description: 
+    color:
+    text_color:
+  - name: Marketing
+    description: 
+    color:
+    text_color:
+  - name: Growth
+    description: 
+    color:
+    text_color:
+  - name: Payments
+    description: 
+    color:
+    text_color:
+  - name: Subscriptions
+    description: 
+    color:
+    text_color:
+  - name: Security
+    description: 
+    color:
+    text_color:
+  
+  
