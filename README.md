@@ -12,4 +12,5 @@ Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsisten
 
 
 
-## Contributor
+## Contributors
+> Check out [contributors.md](./contributors.md)
