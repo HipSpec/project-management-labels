@@ -36,6 +36,14 @@ type:
     description: 
     color:
     text_color:
+  - name: Task
+    description: 
+    color:
+    text_color:
+  - name: Chore
+    description: 
+    color:
+    text_color:
   - name: Tech Debt
     description: 
     color:
