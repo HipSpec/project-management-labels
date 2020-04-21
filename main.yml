@@ -40,6 +40,10 @@ type:
     description: 
     color:
     text_color:
+  - name: Documentation
+    description: 
+    color:
+    text_color:
   - name: Performance Improvement
     description: 
     color:
