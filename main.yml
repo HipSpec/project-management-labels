@@ -1,0 +1,7 @@
+core:
+  - name: WIP
+    description: Work In Progress
+    color: 
+  - name: Done
+    description: Done!
+    color:
