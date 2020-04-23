@@ -74,6 +74,14 @@ broad_features:
     description: 
     color:
     text_color:
+  - name: Email
+    description: 
+    color:
+    text_color:
+  - name: Growth
+    description: 
+    color:
+    text_color:
   - name: Integrations
     description: 
     color:
@@ -94,7 +102,11 @@ broad_features:
     description: 
     color:
     text_color:
-  - name: Growth
+  - name: Mobile
+    description: 
+    color:
+    text_color:
+  - name: Notifications
     description: 
     color:
     text_color:
@@ -107,6 +119,10 @@ broad_features:
     color:
     text_color:
   - name: Security
+    description: 
+    color:
+    text_color:
+  - name: Web
     description: 
     color:
     text_color:
