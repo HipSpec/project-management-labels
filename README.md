@@ -14,7 +14,8 @@ Or have a ton of different projects that use `Bug`, `Bugfix`, `Bugs` inconsisten
 - Add your Github and or Twitter name to contributors.md
 - Not sure how to use github? You can DM @hipspec on Twitter if you think we should add something & we'll credit you.
 
-
+## More Coming Soon!
+- Please Star Us for updates ⭐️⭐️
 
 ## Contributors
 > Check out [contributors.md](./contributors.md)
