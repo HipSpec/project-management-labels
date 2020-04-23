@@ -78,6 +78,14 @@ broad_features:
     description: 
     color:
     text_color:
+  - name: Embedded
+    description: TBD - https://www.quora.com/What-is-the-difference-between-embedded-software-and-firmware
+    color:
+    text_color:
+  - name: Firmware
+    description: TBD - https://www.quora.com/What-is-the-difference-between-embedded-software-and-firmware
+    color:
+    text_color:
   - name: Growth
     description: 
     color:
@@ -102,6 +110,10 @@ broad_features:
     description: 
     color:
     text_color:
+  - name: Moderation
+    description: 
+    color:
+    text_color:
   - name: Mobile
     description: 
     color:
@@ -119,6 +131,18 @@ broad_features:
     color:
     text_color:
   - name: Security
+    description: 
+    color:
+    text_color:
+  - name: System Settings
+    description: 
+    color:
+    text_color:
+  - name: User Management
+    description: 
+    color:
+    text_color:
+  - name: User Settings
     description: 
     color:
     text_color:
