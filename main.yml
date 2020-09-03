@@ -94,7 +94,19 @@ broad_features:
     description: 
     color:
     text_color:
+  - name: Integrations:Inbound
+    description: 
+    color:
+    text_color:
+  - name: Integrations:Outbound
+    description: 
+    color:
+    text_color:
   - name: Infrastructure
+    description: 
+    color:
+    text_color:
+  - name: Marketplace
     description: 
     color:
     text_color:
@@ -135,6 +147,10 @@ broad_features:
     color:
     text_color:
   - name: System Settings
+    description: 
+    color:
+    text_color:
+  - name: Trust
     description: 
     color:
     text_color:
